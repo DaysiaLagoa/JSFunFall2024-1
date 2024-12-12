@@ -31,4 +31,4 @@ const obj2 = { lastName: "Kent" };
 
 const myObject = { ...obj1, ...obj2 };
 
-console.log(myObject); 
+console.log(myObject);
